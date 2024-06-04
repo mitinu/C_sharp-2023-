@@ -1,0 +1,7 @@
+C:\Users\Вячеслав\source\repos\ConsoleApp1\ConsoleAppW4\bin\Debug\ConsoleAppW4.exe.config
+C:\Users\Вячеслав\source\repos\ConsoleApp1\ConsoleAppW4\bin\Debug\ConsoleAppW4.exe
+C:\Users\Вячеслав\source\repos\ConsoleApp1\ConsoleAppW4\bin\Debug\ConsoleAppW4.pdb
+C:\Users\Вячеслав\source\repos\ConsoleApp1\ConsoleAppW4\obj\Debug\ConsoleAppW4.csproj.AssemblyReference.cache
+C:\Users\Вячеслав\source\repos\ConsoleApp1\ConsoleAppW4\obj\Debug\ConsoleAppW4.csproj.CoreCompileInputs.cache
+C:\Users\Вячеслав\source\repos\ConsoleApp1\ConsoleAppW4\obj\Debug\ConsoleAppW4.exe
+C:\Users\Вячеслав\source\repos\ConsoleApp1\ConsoleAppW4\obj\Debug\ConsoleAppW4.pdb

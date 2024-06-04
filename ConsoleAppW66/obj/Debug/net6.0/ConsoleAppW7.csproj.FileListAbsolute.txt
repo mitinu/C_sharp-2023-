@@ -1,0 +1,14 @@
+C:\Users\вячеслав\source\repos\ConsoleApp1\ConsoleAppW66\bin\Debug\net6.0\ConsoleAppW7.exe
+C:\Users\вячеслав\source\repos\ConsoleApp1\ConsoleAppW66\bin\Debug\net6.0\ConsoleAppW7.deps.json
+C:\Users\вячеслав\source\repos\ConsoleApp1\ConsoleAppW66\bin\Debug\net6.0\ConsoleAppW7.runtimeconfig.json
+C:\Users\вячеслав\source\repos\ConsoleApp1\ConsoleAppW66\bin\Debug\net6.0\ConsoleAppW7.dll
+C:\Users\вячеслав\source\repos\ConsoleApp1\ConsoleAppW66\bin\Debug\net6.0\ConsoleAppW7.pdb
+C:\Users\вячеслав\source\repos\ConsoleApp1\ConsoleAppW66\obj\Debug\net6.0\ConsoleAppW7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\вячеслав\source\repos\ConsoleApp1\ConsoleAppW66\obj\Debug\net6.0\ConsoleAppW7.AssemblyInfoInputs.cache
+C:\Users\вячеслав\source\repos\ConsoleApp1\ConsoleAppW66\obj\Debug\net6.0\ConsoleAppW7.AssemblyInfo.cs
+C:\Users\вячеслав\source\repos\ConsoleApp1\ConsoleAppW66\obj\Debug\net6.0\ConsoleAppW7.csproj.CoreCompileInputs.cache
+C:\Users\вячеслав\source\repos\ConsoleApp1\ConsoleAppW66\obj\Debug\net6.0\ConsoleAppW7.dll
+C:\Users\вячеслав\source\repos\ConsoleApp1\ConsoleAppW66\obj\Debug\net6.0\refint\ConsoleAppW7.dll
+C:\Users\вячеслав\source\repos\ConsoleApp1\ConsoleAppW66\obj\Debug\net6.0\ConsoleAppW7.pdb
+C:\Users\вячеслав\source\repos\ConsoleApp1\ConsoleAppW66\obj\Debug\net6.0\ConsoleAppW7.genruntimeconfig.cache
+C:\Users\вячеслав\source\repos\ConsoleApp1\ConsoleAppW66\obj\Debug\net6.0\ref\ConsoleAppW7.dll

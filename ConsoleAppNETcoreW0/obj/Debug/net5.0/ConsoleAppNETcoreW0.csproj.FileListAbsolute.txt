@@ -1,0 +1,16 @@
+C:\Users\Вячеслав\source\repos\ConsoleApp1\ConsoleAppNETcoreW0\bin\Debug\net5.0\ConsoleAppNETcoreW0.exe
+C:\Users\Вячеслав\source\repos\ConsoleApp1\ConsoleAppNETcoreW0\bin\Debug\net5.0\ConsoleAppNETcoreW0.deps.json
+C:\Users\Вячеслав\source\repos\ConsoleApp1\ConsoleAppNETcoreW0\bin\Debug\net5.0\ConsoleAppNETcoreW0.runtimeconfig.json
+C:\Users\Вячеслав\source\repos\ConsoleApp1\ConsoleAppNETcoreW0\bin\Debug\net5.0\ConsoleAppNETcoreW0.runtimeconfig.dev.json
+C:\Users\Вячеслав\source\repos\ConsoleApp1\ConsoleAppNETcoreW0\bin\Debug\net5.0\ConsoleAppNETcoreW0.dll
+C:\Users\Вячеслав\source\repos\ConsoleApp1\ConsoleAppNETcoreW0\bin\Debug\net5.0\ref\ConsoleAppNETcoreW0.dll
+C:\Users\Вячеслав\source\repos\ConsoleApp1\ConsoleAppNETcoreW0\bin\Debug\net5.0\ConsoleAppNETcoreW0.pdb
+C:\Users\Вячеслав\source\repos\ConsoleApp1\ConsoleAppNETcoreW0\obj\Debug\net5.0\ConsoleAppNETcoreW0.csproj.AssemblyReference.cache
+C:\Users\Вячеслав\source\repos\ConsoleApp1\ConsoleAppNETcoreW0\obj\Debug\net5.0\ConsoleAppNETcoreW0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вячеслав\source\repos\ConsoleApp1\ConsoleAppNETcoreW0\obj\Debug\net5.0\ConsoleAppNETcoreW0.AssemblyInfoInputs.cache
+C:\Users\Вячеслав\source\repos\ConsoleApp1\ConsoleAppNETcoreW0\obj\Debug\net5.0\ConsoleAppNETcoreW0.AssemblyInfo.cs
+C:\Users\Вячеслав\source\repos\ConsoleApp1\ConsoleAppNETcoreW0\obj\Debug\net5.0\ConsoleAppNETcoreW0.csproj.CoreCompileInputs.cache
+C:\Users\Вячеслав\source\repos\ConsoleApp1\ConsoleAppNETcoreW0\obj\Debug\net5.0\ConsoleAppNETcoreW0.dll
+C:\Users\Вячеслав\source\repos\ConsoleApp1\ConsoleAppNETcoreW0\obj\Debug\net5.0\ref\ConsoleAppNETcoreW0.dll
+C:\Users\Вячеслав\source\repos\ConsoleApp1\ConsoleAppNETcoreW0\obj\Debug\net5.0\ConsoleAppNETcoreW0.pdb
+C:\Users\Вячеслав\source\repos\ConsoleApp1\ConsoleAppNETcoreW0\obj\Debug\net5.0\ConsoleAppNETcoreW0.genruntimeconfig.cache
